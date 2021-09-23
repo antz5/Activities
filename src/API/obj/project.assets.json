@@ -1520,11 +1520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Tutorials\\Activities\\src\\API\\API.csproj",
+      "projectUniqueName": "E:\\Tutorials\\Activities\\src\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "e:\\Tutorials\\Activities\\src\\API\\API.csproj",
+      "projectPath": "E:\\Tutorials\\Activities\\src\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-      "outputPath": "e:\\Tutorials\\Activities\\src\\API\\obj\\",
+      "outputPath": "E:\\Tutorials\\Activities\\src\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1544,8 +1544,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj": {
-              "projectPath": "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj"
+            "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj": {
+              "projectPath": "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj"
             }
           }
         }

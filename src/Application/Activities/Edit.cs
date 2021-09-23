@@ -10,12 +10,12 @@ namespace Application.Activities
 {
     public class Edit
     {
-        public class Command : IRequest
+        public class Command : IRequest<bool>
         {
             public Activity Activity { get; set; }
         }
 
-        public class Handler : IRequestHandler<Command>
+        public class Handler : IRequestHandler<Command, bool>
         {
             private readonly DataContext _context;
             private readonly IMapper _mapper;
@@ -25,19 +25,19 @@ namespace Application.Activities
                 _mapper = mapper;
             }
 
-            public async Task<Unit> Handle(Command request, CancellationToken cancellationToken)
+            public async Task<bool> Handle(Command request, CancellationToken cancellationToken)
             {
                 var activity = await _context.Activities.FindAsync(request.Activity.Id);
                 if(activity is null)
-                {
-                    throw new InvalidOperationException($"Activity with {request.Activity.Id} was not found!");
+                {                    
+                    return false;
                 }
 
               _mapper.Map(request.Activity,activity);
 
                 await _context.SaveChangesAsync();
 
-                return Unit.Value;
+                return true;
             }
         }
     }

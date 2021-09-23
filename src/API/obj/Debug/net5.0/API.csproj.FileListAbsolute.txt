@@ -64,3 +64,5 @@ E:\Tutorials\Activities\src\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.D
 E:\Tutorials\Activities\src\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 E:\Tutorials\Activities\src\API\bin\Debug\net5.0\MediatR.dll
 E:\Tutorials\Activities\src\API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Tutorials\Activities\src\API\bin\Debug\net5.0\AutoMapper.dll
+E:\Tutorials\Activities\src\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
