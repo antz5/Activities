@@ -1,0 +1,15 @@
+E:\Tutorials\Activities\src\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\Tutorials\Activities\src\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\Tutorials\Activities\src\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\Tutorials\Activities\src\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\Tutorials\Activities\src\Persistence\bin\Debug\net5.0\Domain.dll
+E:\Tutorials\Activities\src\Persistence\bin\Debug\net5.0\Domain.pdb
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\Tutorials\Activities\src\Persistence\obj\Debug\net5.0\Persistence.pdb

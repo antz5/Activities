@@ -1,0 +1,17 @@
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Application.deps.json
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Application.dll
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\ref\Application.dll
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Application.pdb
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Domain.dll
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Persistence.dll
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Persistence.pdb
+E:\Tutorials\Activities\src\Application\bin\Debug\net5.0\Domain.pdb
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.dll
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\ref\Application.dll
+E:\Tutorials\Activities\src\Application\obj\Debug\net5.0\Application.pdb
