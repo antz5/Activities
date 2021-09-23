@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {}
+    "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
+    "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
+        "projectPath": "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\Tutorials\\Activities\\src\\Domain\\obj\\",
+        "outputPath": "e:\\Tutorials\\Activities\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

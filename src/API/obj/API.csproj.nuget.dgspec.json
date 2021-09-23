@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tutorials\\Activities\\src\\API\\API.csproj": {}
+    "e:\\Tutorials\\Activities\\src\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Tutorials\\Activities\\src\\API\\API.csproj": {
+    "e:\\Tutorials\\Activities\\src\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tutorials\\Activities\\src\\API\\API.csproj",
+        "projectUniqueName": "e:\\Tutorials\\Activities\\src\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Tutorials\\Activities\\src\\API\\API.csproj",
+        "projectPath": "e:\\Tutorials\\Activities\\src\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\Tutorials\\Activities\\src\\API\\obj\\",
+        "outputPath": "e:\\Tutorials\\Activities\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj": {
-                "projectPath": "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj"
+              "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj": {
+                "projectPath": "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj": {
+    "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj",
+        "projectUniqueName": "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\Tutorials\\Activities\\src\\Application\\Application.csproj",
+        "projectPath": "e:\\Tutorials\\Activities\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\Tutorials\\Activities\\src\\Application\\obj\\",
+        "outputPath": "e:\\Tutorials\\Activities\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,11 +109,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj"
+              "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
+                "projectPath": "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj"
               },
-              "E:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj": {
-                "projectPath": "E:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj"
+              "e:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj": {
+                "projectPath": "e:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -128,6 +128,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -152,14 +156,14 @@
         }
       }
     },
-    "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
+    "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
+        "projectPath": "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\Tutorials\\Activities\\src\\Domain\\obj\\",
+        "outputPath": "e:\\Tutorials\\Activities\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -209,14 +213,14 @@
         }
       }
     },
-    "E:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj": {
+    "e:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "e:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj",
+        "projectPath": "e:\\Tutorials\\Activities\\src\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\ananthsmurthy\\.nuget\\packages\\",
-        "outputPath": "E:\\Tutorials\\Activities\\src\\Persistence\\obj\\",
+        "outputPath": "e:\\Tutorials\\Activities\\src\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -236,8 +240,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj"
+              "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj": {
+                "projectPath": "e:\\Tutorials\\Activities\\src\\Domain\\Domain.csproj"
               }
             }
           }
